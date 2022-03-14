@@ -1,3 +1,98 @@
 layout: page
 title: "PAGE TITLE"
 permalink: /URL-PATH/
+
+<!DOCTYPE html>
+<!-- saved from url=(0035)https://logic.pdmi.ras.ru/~sokolov/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+
+
+		<link href="./Alekseev Yaroslav_files/common.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/small-common.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/header.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/navigation.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/main.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/papers.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/footer.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/table.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/small-table.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/phone-common.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/phone-header.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/phone-navigation.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/phone-main.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/phone-footer.css" rel="stylesheet" type="text/css" media="all"><link href="./Alekseev Yaroslav_files/phone-table.css" rel="stylesheet" type="text/css" media="all">
+
+		<title>Alekseev Yaroslav</title>
+	</head>
+	
+	<body data-new-gr-c-s-check-loaded="14.1052.0" data-gr-ext-installed="">
+		<header class="show-header"><div class="container center">
+    <div class="column-2 center">
+        <img src="./Alekseev Yaroslav_files/photo.jpg" alt="" class="userpic">
+        <div>
+            <div class="name">
+                Alekseev Yaroslav
+            </div>
+            <div class="degree">
+                <!-- PhD Student -->
+            </div>
+        </div>
+    </div>
+    <div class="column-2">
+        <div class="interests-header">
+            Research interests:
+        </div>
+        <div class="fields">
+            Proof complexity, Computational complexity, Communication complexity.
+            <br><br>
+            <font size="-2">Last updated: 14.03.2022</font>
+        </div>
+    </div>
+</div>
+
+</header><nav class="show-nav"><div class="container dropdown">
+	<div class="column-3">
+		<div class="section">
+			Contacts
+		</div>
+        <ul class="dotted">
+            <li>
+                <a href="https://chebyshev.spbu.ru/en/people/iaroslav-alekseev/"> Chebyshev Laboratory at St. Petersburg State University</a>
+            </li>
+            <!--<li>
+        <a href="http://www.pdmi.ras.ru/pdmi/index.php">
+            St. Petersburg Department of V. A. Steklov Institute of Mathematics
+        </a>
+    </li>
+            <li>
+                27 Fontanka, St. Petersburg 191023, Russia
+            </li>-->
+            <li>
+                <a href="mailto:tolstreg@gmail.com"> tolstreg@gmail.com</a>
+            </li>
+        </ul>
+	</div>
+    <div class="column-3">
+        <div class="section">
+            Menu
+        </div>
+        <ul class="dotted">
+            <li>
+                <a href="https://aleksyar.github.io/papers/"> Papers, talks and posters</a>
+            </li>
+            <li>
+                <a href="https://aleksyar.github.io/index_files_CV"> My CV</a>
+            </li>
+        </ul>
+        <!--</div>
+        <div class="column-3">
+            <div class="section">
+                For students
+            </div>
+            <ul class="dotted">
+                <li>
+                    <a href="http://logic.pdmi.ras.ru/~sokolov/expanders/"> Expanders and error-correcting codes</a>
+                </li>
+                <li>
+                    <a href="http://logic.pdmi.ras.ru/~sokolov/communication/"> Communication complexity</a>
+                </li>
+            </ul> -->
+        </div>
+    </div></nav><main class="hide-main">			</main>
+                <footer>
+                    <div class="container" align="right">
+        <a href="http://logic.pdmi.ras.ru/~sokolov/about/">About</a>
+    </div>
+
+                </footer>
+
+
+    </body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
